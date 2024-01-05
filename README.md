@@ -1,3 +1,8 @@
 # girish-chandra
 
-![Uploading image.png…]()
+
+HI THERE! IT'S GIRISH CHANDRA
+
+
+ABOUT ME :-
+A CSE STUDENT AT SIT TUMKUR.. 
