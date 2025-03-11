@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Girish Chandra</h1>
-<h3 align="center">3rd-year engineering student at SIT, Tumkur.</h3>
+<h3 align="center">4th-year engineering student at SIT, Tumkur.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girishchandra29&label=Profile%20views&color=0e75b6&style=flat" alt="girishchandra29" /> </p>
 
-- 🌱 I’m currently learning **MERN and DSA**
+- 🌱 I have a strong grasp of core CS concepts like **Operating Systems, DBMS, DSA and OOP** along with hands-on experience in modern technologies.
 
 - 📫 How to reach me **girish.chandra2806@gmail.com**
 
